@@ -1,11 +1,7 @@
 {
   "name": "pemilu-blockchain",
-  "dependencies": {
-    "@nomicfoundation/hardhat-ignition": "^0.15.13",
-    "@nomicfoundation/hardhat-toolbox": "^6.1.0"
-  },
   "devDependencies": {
-    "ts-node": "^10.9.2",
-    "typescript": "^5.9.2"
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.26.1"
   }
 }
